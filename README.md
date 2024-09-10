@@ -24,12 +24,12 @@ This project is a basic implementation of the classic Space Invaders arcade game
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/space-invaders-python.git
+   git clone https://github.com/nicosey/space.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd space-invaders-python
+   cd space
    ```
 
 3. Install the required dependencies using the requirements.txt file:
